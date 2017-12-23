@@ -5,3 +5,4 @@ Three sessions by JiaQing
 3. Saturday, 6th January 2018
 
 The session I attended was at #SGInnovate
+# ai-prep_ding
